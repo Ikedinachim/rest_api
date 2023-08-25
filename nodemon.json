@@ -1,0 +1,8 @@
+{
+    "env": {
+        "SECRET_TOKEN_KEY":  "IkedinachimUgochukwuSecretKey",
+        "MONGO_DATABASE_NAME": "messages",
+        "MONGO_PASSWORD": "ikedinachim",
+        "MONGO_ID": "ikedinachim"
+    }
+}

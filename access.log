@@ -1,0 +1,2 @@
+::1 - - [05/Aug/2023:21:30:14 +0000] "OPTIONS /feed/posts?page=1 HTTP/1.1" 200 8 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [05/Aug/2023:21:30:14 +0000] "GET /feed/posts?page=1 HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
